@@ -13,32 +13,32 @@ This questionnaire will take you approximately 1-2 minutes to complete. The resu
 
 Thanks very much for your participation!
 
-1. （单选）Category of your institution:
+1. （Single option）Category of your institution:
 
 - [ ] Universities and Research Institutes
 - [ ] Industry
 - [ ] Department of Government
 - [ ] Others: ________
 
-2. （若第1题选择“高校及科研院所”，单选）Your identity：
+2. （If No.1 choose “Universities and Research Institutes”，Single option）Your identity：
 
 - [ ] Teacher
 - [ ] Student
 - [ ] Other types of researcher
 
-3. （选填）Detailed information of your institution:
+3. （Optional）Detailed information of your institution:
 
    Nation and region: ___
    Institution name:___
 
-4. （单选）Your confidence of ethical compliance knowledge of cybersecurity research:
+4. （Single option）Your confidence of ethical compliance knowledge of cybersecurity research:
 
 - [ ] High confidence
 - [ ] Passable confidence
 - [ ] Low confidence
 - [ ] No knowledge
 
-5. （多选）Source for you to get knowledge about ethical compliance:
+5. （Multiple options）Source for you to get knowledge about ethical compliance:
 
 - [ ] Your supervisor or other research collaborator
 - [ ] School education (courses, lectures, etc.)
@@ -47,44 +47,44 @@ Thanks very much for your participation!
 - [ ] Review feedback (peer review of research)
 - [ ] Others:___
 
-6. （单选）Does your institution have an ethics review board (IRB):
+6. （Single option）Does your institution have an ethics review board (IRB):
 
 - [ ] Yes
 - [ ] No
 - [ ] Not sure
 
-7. （若第6题选择“是”，单选）Functions available from your institution's IRB:
+7. （If No.6 choose “Yes”，Single option）Functions available from your institution's IRB:
 
 - [ ] Can provide professional guidance and proof of ethical compliance for security research
 - [ ] IRB exists but is unable to provide professional help for security research
 - [ ] Not sure
 - [ ] Others:___
 
-8. （单选）Do you have any security research project that involves ethical issues:
+8. （Single option）Do you have any security research project that involves ethical issues:
 
 - [ ] Yes
 - [ ] No
 - [ ] Not sure how to identify
 
-9. （若第8题选择“是”，单选）For research projects involving ethical risks, the actions you have taken include:
+9. （If No.8 choose “Yes”，Single option）For research projects involving ethical risks, the actions you have taken include:
 
 - [ ] Taking active measures to avoid ethical risks
 - [ ] Recognizing that ethical issues involved but are not sure how to do avoid
 - [ ] Others:___
 
-10. （单选）Has your existing research ever been challenged by reviewers in terms of ethical risks:
+10. （Single option）Has your existing research ever been challenged by reviewers in terms of ethical risks:
 
 - [ ] Yes
 - [ ] No
 
-11. （若第10题选择“是”，单选）Your responses to the challenges towards the ethical risks of your research:
+11. （If No.10 choose “Yes”，Single option）Your responses to the challenges towards the ethical risks of your research:
 
 - [ ] The corresponding risks have been mitigated by active improvement experiments
 - [ ] Experiments need to be improved, but have no idea about how to do
 - [ ] No need to improve experiments, but need more explanation (e.g. through optimized writing) in terms of ethical compliance
 - [ ] Others:___
 
-12. （多选）Your current method of determining whether a research project involves ethical issues:
+12. （Multiple options）Your current method of determining whether a research project involves ethical issues:
 
 - [ ] Seeking guidance and certification from professional agencies such as IRBs
 - [ ] Reference to authoritative reports (e.g. Menlo Report) or existing work, or consultation with experienced researchers
@@ -93,14 +93,14 @@ Thanks very much for your participation!
 - [ ] No projects involving ethical issues yet
 - [ ] Others___
 
-13. （至少选择1项）In your opinion, to improve ethical compliance in security research, what is the most important:
+13. （At least choose one option）In your opinion, to improve ethical compliance in security research, what is the most important:
 
 - [ ] Establishing authoritative agencies (e.g. IRBs) to provide professional guidance
 - [ ] Improving the education and awareness of ethical compliance for security researchers
 - [ ] More relevant courses in universities
 - [ ] Others___
 
-14. （选填）Do you have any relevant experience, advice or requests on how to address ethical issues in security research in institutions where there is no authoritative agencies such as an IRB:
+14. （Optional）Do you have any relevant experience, advice or requests on how to address ethical issues in security research in institutions where there is no authoritative agencies such as an IRB:
 
    ___
 
